@@ -1,2 +1,2 @@
 # GitHub Actions Lab 1
-A random line to trigger actions
+A random line to trigger git hub actions
